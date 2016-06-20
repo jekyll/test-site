@@ -1,5 +1,3 @@
 ## HEAD
 
-### hi
-
-  * Update _config.yml (#3)
+  * Update `_config.yml` (#3)
