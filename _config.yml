@@ -1,3 +1,5 @@
 markdown: kramdown
-pygments: true
+highlighter: rouge
 paginate: 3
+gems:
+ - jekyll-paginate
